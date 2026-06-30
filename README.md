@@ -34,4 +34,4 @@ Building scalable, responsive, and user-friendly web applications with the MERN 
 
 ---
 
-> **"Turning ideas into scalable web applications."** 🚀
+> **"Building solutions that solve real-world problems."** 🚀
