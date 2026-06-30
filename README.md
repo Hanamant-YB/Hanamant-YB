@@ -1,23 +1,39 @@
 # Hi 👋, I'm Hanamant Y Bhajantri
 
-### Full Stack Developer | MERN Stack | Building Scalable Web Applications
+### Full Stack Developer
 
-- 💻 Passionate about building responsive and scalable web applications.
-- 🚀 Focused on solving real-world problems through clean and maintainable code.
-- 🌱 Continuously improving backend development, system design, and modern web technologies.
+Building scalable, responsive, and user-friendly web applications with the MERN stack.
+
+- 💻 Passionate about solving real-world problems through software.
+- 🚀 Focused on clean architecture, maintainable code, and modern web development.
+- 🌱 Continuously improving backend development, system design, and software engineering skills.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| React.js • Next.js • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap | Node.js • Express.js • REST APIs • JWT | MongoDB • MySQL | Git • GitHub • VS Code • Postman • Vercel |
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,vscode,postman,vercel" />
+</p>
 
 ---
 
 ## 📫 Connect
 
-- 📧 **Email:** [hanamantyb516@gmail.com](mailto:hanamantyb516@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- 💻 **GitHub:** [github.com/Hanamant-YB](https://github.com/Hanamant-YB)
+<p align="left">
+<a href="mailto:hanamantyb516@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/Hanamant-YB">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+> *"Always learning. Always building."* 🚀
